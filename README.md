@@ -1,2 +1,2 @@
 # PSQL-Bash-Training
-Freecodecamp certification for database 
+Freecodecamp certification for relational database 
